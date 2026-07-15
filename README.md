@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, Friend 👋
 
 <!--
 **zoumas/zoumas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Ilias. A Go Software Engineer working at [Sycada](https://www.sycada.com/en/).
+
+In my day to day I'm working on an embedded telematics service for electric vehicle fleet monitoring, handling CAN bus data acquisition, GPS tracking, and real-time telemetry transmission over AWS IoT and the high-throughput distributed system for its real-time trace processing. 
+
+CI/CD pipeline establisher and integration test organizer 👔.
+
+I get a kick out of diagnosing and resolving critical production incidents including memory spikes, panic crashes, and data integrity bugs across embedded and backend systems.
